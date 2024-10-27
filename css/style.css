@@ -1,0 +1,339 @@
+.head1{
+    font-size: 15px;  
+    background-color: rgba(9, 9, 128, 0.856);
+    
+  }
+  
+  .btn-group{
+      font-size: 15px;
+      margin-left: 5px;
+      margin-top: 0px;
+  
+  }
+  .button1{
+      border:none;
+      background-color: blue;
+      color: white;
+  }
+  .button2{
+      border: none;
+      background-color: black;
+      color: white;
+  }
+  .header-image{
+      padding-left: 50px;
+  }
+  .icons-socialmedia ul li{
+      text-decoration: none;
+      list-style: none;
+      display: inline-block;
+      
+  }
+  .icons-socialmedia li a {
+      border-radius: 20px;
+      height: 30px;
+      width: 30px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  .icons-socialmedia li a svg{
+      font-weight: bold;
+      color: white;
+  }
+  
+  .icons-socialmedia ul{
+      display: flex;
+      justify-content: end;
+  }
+  
+  .second-nav ul li{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+  }
+  .second-nav ul li a{
+      text-decoration: none;
+      color: black;
+      margin-left: 12px;
+      font-size: 15px;
+  }
+  .second-nav ul li svg{
+      margin-left: 12px;
+  }
+  .second-nav{
+      display: flex;
+      justify-content: end;
+  }
+  .btn-und-crd{
+      background-color:#003366;
+      color: white;
+      font-weight: 500;
+  }
+  .card-trans:hover {
+    transition: all o.35s ease-in-out;
+    transform: scale(1.1);     
+  
+  }
+  .card-trans{
+    transition: all 0.35s ease-in-out;
+  }
+ 
+  .sec-card{
+    background-color:rgb(223, 218, 218);  
+}
+  .third-card{
+    background-image: url(https://www.keralatourism.org/images/kt//bg/sky-1.jpg); 
+  }
+.logo-image{
+    width: 250px;
+    padding-left: 50px;
+    padding-top: 10px;
+
+
+}
+.header-section{
+    background-color:#003366;
+    z-index: 4;
+    padding-right: 50px;
+    height: 142px;
+}
+.second-navbar li a{
+    color: white;
+    font-size: 13px;
+}
+.second-navbar li{
+    color: white;
+}
+.whats-hpning{
+    color: #003366;
+}
+.what-section{
+    background-color: rgb(216, 208, 208);
+}
+.para-sec ul li{
+    list-style: none;
+}
+.para-sec ul li a{
+    text-decoration: none;
+}
+.btn5{
+    background-color: #003366;
+    color: white;
+    font-weight: 500;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.btn7 button{
+    background-color: rgb(153, 149, 149);
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 42%;
+    left: 38%;
+    border: solid 1px white;
+
+}
+.video-sec{
+    position: relative;
+}
+.btn7 p {
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    color: white;
+    font-size: 20px;
+}
+.tour h3{
+    color: #003366;
+    display: flex;
+    justify-content: center;
+}
+.tour p{
+    display: flex;
+    justify-content: center;
+}
+.tour-packages{
+    background-color: rgb(199, 196, 196);
+}
+
+.plan-your-trip {
+    text-align: center;
+    padding: 50px;
+}
+
+.icons-container {
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.icon-box {
+    background-color: #002855;
+    width: 100px;
+    margin-right: 20px;
+    text-align: center;
+    height: 100px;
+    padding-top: 30px;
+    border-radius: 70px;
+    margin-left: 50px;
+}
+
+.icon-box img {
+    width: 50px;
+    height: 50px;
+    display: block;
+    margin: 0 auto 10px;
+}
+
+.icon-box p {
+    font-size: 16px;
+    color: #002855;
+    margin: 0;
+}
+
+h2 {
+    color: #002855;
+}
+.search-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #e0e6ef;
+    padding: 30px;
+    margin-left: 280px;
+    width: 60%;
+  
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+label {
+    font-size: 16px;
+    color: #002855;
+    margin-right: 10px;
+}
+
+#search-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 300px;
+    margin-right: 10px;
+}
+
+#search-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    
+    cursor: pointer;
+    font-size: 14px;
+}
+
+#search-button:hover {
+    background-color: #45a049;
+}
+.explore-photo {
+    color: #003366;
+    font-weight: 500px;
+}
+.galery-icon{
+    right: 42%;
+    color: white;
+    padding-right: 5px;
+    padding-top: 3px;
+
+}
+.social-icons-2 ul li {
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+}
+.social-icons-2 ul li a{
+    border-radius: 50px;
+    height: 80px;
+    width: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.social-icons-2 ul li a svg{
+    font-weight: bold;
+    color: white;
+}
+.connect-part{
+    color: #002855;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.last-para{
+    font-size: 20px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    color: #003366;
+}
+.last-para span{
+    color: rgb(15, 191, 235);
+    padding-right: 5px;
+}
+.footer-part ul li {
+    list-style: none;
+
+}
+.footer-part ul li h4{
+    color: #002855;
+    font-weight: 300;
+}
+.footer-part ul li a{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    background-color: rgb(218, 218, 238);
+    padding-top: 20px;
+    padding-left: 0px;
+}
+.footer-part ul{
+    padding-left: 0px;
+}
+.btn9{
+    color: #003366;
+}
+.footer-fir-col button{
+    color: #fff;
+    background-color: #0a2a4a;
+}
+.footer-fir-col h6{
+    color: #0a2a4a;
+    font-size: 20px;
+    font-weight: 300;
+    padding-left: 30px;
+}
+.footer-fir-col p{
+    color: rgb(104, 103, 103);
+}
+.footer-sec-col p{
+    color: rgb(102, 101, 101);
+    font-size: 11px;
+}
+.footer-sec-col a{
+    color: black;
+    padding-left: 60px;
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+}
+.footer-third-col p {
+    font-size: 20px;
+    font-weight: 350;
+}
